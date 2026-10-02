@@ -4,7 +4,7 @@
 
 # 🛡️ Security Books — The Ultimate Cybersecurity Library
 
-### _A Massive, Curated Collection of 160+ Cybersecurity Books, Guides & Resources_
+### _A Massive, Curated Collection of 230+ Cybersecurity Books, Guides & Resources_
 
 [![GitHub stars](https://img.shields.io/github/stars/mizazhaider-ceh/Security-Books?style=for-the-badge&logo=github&color=yellow)](https://github.com/mizazhaider-ceh/Security-Books/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mizazhaider-ceh/Security-Books?style=for-the-badge&logo=github&color=blue)](https://github.com/mizazhaider-ceh/Security-Books/network/members)
@@ -36,12 +36,12 @@ This repository is a **one-stop library** for anyone passionate about **Cybersec
 - [🐉 Kali Linux](#-kali-linux)
 - [🌐 Network Security & Defense](#-network-security--defense)
 - [🦠 Malware, Threats & Incident Response](#-malware-threats--incident-response)
-- [🏛️ Frameworks & Compliance (NIST, OWASP, MITRE)](#️-frameworks--compliance-nist-owasp-mitre)
+- [🏛️ Frameworks & Compliance (NIST, OWASP, MITRE)](#-frameworks--compliance-nist-owasp-mitre)
 - [🤖 AI & Machine Learning in Cybersecurity](#-ai--machine-learning-in-cybersecurity)
 - [📜 Certifications (CEH, OSCP, CISSP, CHFI, CompTIA, CISM)](#-certifications-ceh-oscp-cissp-chfi-comptia-cism)
 - [🐧 Linux & Bash](#-linux--bash)
 - [💻 Programming for Security](#-programming-for-security)
-- [🕵️ OSINT & Social Engineering](#️-osint--social-engineering)
+- [🕵️ OSINT & Social Engineering](#-osint--social-engineering)
 - [🔧 Security Tools & Frameworks](#-security-tools--frameworks)
 - [🔐 Cryptography & Blockchain](#-cryptography--blockchain)
 - [📊 Career, Strategy & Miscellaneous](#-career-strategy--miscellaneous)
@@ -54,13 +54,13 @@ This repository is a **one-stop library** for anyone passionate about **Cybersec
 
 ## 🎯 About
 
-Welcome to **Security-Books** — a carefully curated, categorized collection of **160+ cybersecurity PDFs** covering everything from foundational concepts to advanced exploitation techniques.
+Welcome to **Security-Books** — a carefully curated, categorized collection of **230+ cybersecurity books and PDFs** covering everything from foundational concepts to advanced exploitation techniques.
 
 ### 🔥 What makes this repo special?
 
 | Feature | Description |
 |---------|-------------|
-| 📚 **160+ Resources** | One of the largest open collections of security books on GitHub |
+| 📚 **230+ Resources** | One of the largest open collections of security books on GitHub |
 | 🏷️ **Fully Categorized** | Every book organized into clear, logical categories |
 | 🔗 **Clickable Links** | Click any book name to open/download it instantly |
 | 🎓 **All Skill Levels** | From absolute beginner to advanced red teamer |
@@ -133,6 +133,9 @@ I've personally gone through many of these books during my own CEH journey and p
 | 30 | 📕 [**eLearnSecurity eWPT Notes**](eLearnSecurity%20eWPT%20Notes.pdf) | eWPT certification study notes |
 | 31 | 📕 [**Web Agents Inject**](web_agents_inject.pdf) | Web agent injection techniques |
 | 32 | 📕 [**Pentesting With Burp Suite**](Pentesting%20With%20Burp%20Suite.pdf) | Master Burp Suite for web testing |
+| 33 | 📕 [**Bug Bounty from Scratch**](Bug_Bounty_from_Scratch_A_comprehensive_guide_to_discovering_vulnerabilities.pdf) | From zero to first bounty — vulnerability discovery guide |
+| 34 | 📕 [**Real World Bug Hunting (Peter Yaworski)**](Real_World_Bug_Hunting_A_Field_Guide_to_Web_Hacking_Peter_Yaworski.pdf) | Field guide to web hacking by Peter Yaworski |
+| 35 | 📕 [**WordPress Pentesting Guide**](WordPress%20Pentesting%20Guide.pdf) | WordPress security testing guide |
 
 ---
 
@@ -159,6 +162,14 @@ I've personally gone through many of these books during my own CEH journey and p
 | 15 | 📗 [**AC DER BY PASS TECH.HACKERS**](AC%20DER%20BY%20PASS%20TECH.HACKERS.pdf) | Access control bypass techniques |
 | 16 | 📗 [**Offensive Security Professional Overview Survival**](Offensive%20Security%20Professional%20Overview%20Survival.pdf) | OffSec professional guide |
 | 17 | 📗 [**Week 1 — Intro to Pentesting**](Week1%20-%20IntroPentesting.pdf) | Beginner-friendly intro to penetration testing |
+| 18 | 📗 [**Becoming the Hacker**](Becoming%20the%20Hacker.pdf) | Hacker mindset and offensive techniques |
+| 19 | 📗 [**Hands-On Ethical Hacking**](Hands_On_Ethical_Hacking_Tactics_Strategies%2C_tools%2C_and_techniques.pdf) | Tactics, strategies, tools and techniques |
+| 20 | 📗 [**Windows and Linux Penetration Testing from Scratch**](Windows_and_Linux_Penetration_Testing_from_Scratch_Harness_the_power.pdf) | Pentesting Windows and Linux from the ground up |
+| 21 | 📗 [**Advanced Penetration Testing for Highly**](Advanced_Penetration_Testing_for_Highly.pdf) | Advanced penetration testing guide |
+| 22 | 📗 [**Breakdown of Pro Labs**](Breakdown%20of%20Pro%20Labs.pdf) | Breaking down professional pentest labs |
+| 23 | 📗 [**PowerShell for Penetration Testing**](PowerShell%20for%20Penetration%20Testing.pdf) | PowerShell for offensive security |
+| 24 | 📗 [**PowerShell for Penetration Testing — Explore the Capabilities**](PowerShell_for_Penetration_Testing_Explore_the_capabilities_of_PowerShell.pdf) | Deep dive into PowerShell pentesting capabilities |
+| 25 | 📗 [**Metasploit — The Penetration Tester's Guide**](Metasploit_The_Penetration_Testers_Guide_Kennedy%2C_David%2C_Jim_OGorman.pdf) | The Metasploit framework guide by Kennedy and O'Gorman |
 
 ---
 
@@ -170,6 +181,10 @@ I've personally gone through many of these books during my own CEH journey and p
 |---|------|-------------|
 | 1 | 📙 [**Red Teaming Handbook**](20210625-Red_Teaming_Handbook.pdf) | Comprehensive red team operations guide |
 | 2 | 📙 [**What Can Generative AI Red Teaming Learn from Cyber Red Teaming**](What_Can_Generative_AI_Red_Teaming_Learn_from_Cyber_Red_Teaming.pdf) | AI-powered red teaming insights |
+| 3 | 📙 [**Hacking Active Directory**](Hacking_Active_Directory_Unveiling_Security_Vulnerabilities_.epub) | Unveiling Active Directory security vulnerabilities |
+| 4 | 📙 [**Roadmap to Becoming a Red Teamer**](Roadmap%20to%20Becoming%20a%20Red%20Teamer.pdf) | Career roadmap for aspiring red teamers |
+| 5 | 📙 [**Cloud Penetration Testing for Red Teamers**](Cloud%20Penetration%20Testing%20for%20Red%20Teamers%20_%20Learn%20How%20to.pdf) | Cloud pentesting techniques for red team operators |
+| 6 | 📙 [**Hacking Kubernetes**](Hacking%20Kubernetes.pdf) | Attacking and defending Kubernetes clusters |
 
 ---
 
@@ -205,6 +220,11 @@ I've personally gone through many of these books during my own CEH journey and p
 | 10 | 🐧 [**Kali Tools List with Short Description**](kalitoolslistwithshortdescription.pdf) | Complete Kali tools reference |
 | 11 | 🐧 [**CTF Cheat Sheet**](CTF%20Cheet%20Sheet.pdf) | Capture The Flag competition cheat sheet |
 | 12 | 🐧 [**The Ultimate Guide to Flag Hunting**](The%20Ultimate%20Guide%20to%20Flag%20Hunting.pdf) | Complete guide to CTF flag hunting strategies |
+| 13 | 🐧 [**Kali Linux 2 — Windows Penetration Testing**](Kali_Linux_2-_Windows_Penetration_Testing.pdf) | Windows pentesting with Kali Linux |
+| 14 | 🐧 [**Kali Linux Revealed**](Kali_Linux_Revealed_Mastering_the_Penetration_Testing_Distribution.pdf) | Mastering the penetration testing distribution |
+| 15 | 🐧 [**Penetration Testing with Kali NetHunter**](Penetration%20Testing%20with%20Kali%20NetHunter.pdf) | Mobile pentesting with Kali NetHunter |
+| 16 | 🐧 [**Penetration Testing with Kali NetHunter (Roybal)**](Penetration_Testing_with_Kali_NetHunter_Gerald_%E2%80%9CTripp%E2%80%9D_Roybal_III.pdf) | Kali NetHunter guide by Gerald Roybal III |
+| 17 | 🐧 [**Kali Linux Cookbook**](%5BPDF%5D%20Kali_Linux_Cookbook.pdf) | Practical Kali Linux recipes |
 
 ---
 
@@ -228,6 +248,9 @@ I've personally gone through many of these books during my own CEH journey and p
 | 12 | 🌍 [**Attacks on TCP**](Attacks%20on%20TCP.pdf) | TCP/IP attack vectors and defenses |
 | 13 | 🌍 [**CISCO SD-WAN & NAT — Part 1**](CISCO%20SD-WAN%20_%20NAT%20-%20Part%201.pdf) | Cisco networking & SD-WAN |
 | 14 | 🌍 [**Firewall Checklist**](FirewallChecklist.pdf) | Essential firewall configuration checklist |
+| 15 | 🌍 [**Common Ports**](Common%20Ports.pdf) | Common ports cheat sheet |
+| 16 | 🌍 [**Subnetting**](Subnetting.pdf) | Subnetting explained |
+| 17 | 🌍 [**Understanding Network Hacks**](Understanding_Network_Hacks_Attack_and_Defense_with_Python_Bastian.pdf) | Network attack and defense with Python |
 
 ---
 
@@ -264,6 +287,7 @@ I've personally gone through many of these books during my own CEH journey and p
 | 9 | 📐 [**Zero Trust Architecture**](zero%20Trust%20Archi.pdf) | Zero Trust security model |
 | 10 | 📐 [**Shift Left**](SHFIT%20LEFT.pdf) | Shift-left security approach |
 | 11 | 📐 [**Building an Application Security Program**](Building%20an%20Application%20Security%20Program.pdf) | AppSec program development |
+| 12 | 📐 [**NIST Cybersecurity Framework in a Nutshell**](NIST%20Cybersecurity%20Framework%20in%20a%20nutshell%20%21.pdf) | NIST CSF explained simply |
 
 ---
 
@@ -278,6 +302,11 @@ I've personally gone through many of these books during my own CEH journey and p
 | 3 | 🤖 [**ChatGPT for CyberSecurity**](ChatGPT%20for%20CyberSecurity%20%231%20%20..pdf) | Leveraging ChatGPT for security |
 | 4 | 🤖 [**Creatively Malicious Prompt Engineering**](Creatively%20Malicious%20Prompt%20Engineering.pdf) | Prompt injection & AI security |
 | 5 | 🤖 [**Natural Language Processing Python**](Natural%20Language%20Processing%20Python.pdf) | NLP for security applications |
+| 6 | 🤖 [**ChatGPT for Cybersecurity Cookbook**](ChatGPT%20for%20Cybersecurity%20Cookbook.epub) | Practical ChatGPT recipes for security work |
+| 7 | 🤖 [**Cyber Security in the Age of Artificial Intelligence**](Cyber%20Security%20in%20the%20Age%20of%20Artificial%20Intelligence.pdf) | How AI is reshaping cybersecurity |
+| 8 | 🤖 [**OpenAI API Cookbook**](OpenAI%20API%20Cookbook%20_%20Build%20Intelligent%20Applications.pdf) | Build intelligent applications with the OpenAI API |
+| 9 | 🤖 [**OWASP Top 10 for LLM Applications 2025**](OWASP%20Top%2010%20for%20%20LLM%20Applications%202025.pdf) | Top risks for LLM-powered applications |
+| 10 | 🤖 [**Utilizing Generative AI for Cyber Defense**](Utilizing%20Generative%20AI%20for%20Cyber%20Defense%20Strategies.pdf) | Generative AI strategies for defenders |
 
 ---
 
@@ -332,6 +361,18 @@ I've personally gone through many of these books during my own CEH journey and p
 |---|------|-------------|
 | 1 | 🎖️ [**Complete Guide to CISM Certification**](Complete%20Guide%20to%20CISM%20Certification.pdf) | Full CISM preparation guide |
 
+### 🏅 CEH — Certified Ethical Hacker
+
+| # | Book | Description |
+|---|------|-------------|
+| 1 | 🎖️ [**Certified Ethical Hacker (CEH) Study Guide**](Certified%20Ethical%20Hacker%20(CEH)%20Study%20Guide.pdf) | CEH exam study guide |
+
+### 🏅 HTB CPTS — HackTheBox Certified Penetration Testing Specialist
+
+| # | Book | Description |
+|---|------|-------------|
+| 1 | 🎖️ [**CPTS**](CPTS.pdf) | HackTheBox CPTS certification material |
+
 ### 🏅 ITIL
 
 | # | Book | Description |
@@ -350,6 +391,18 @@ I've personally gone through many of these books during my own CEH journey and p
 | 2 | 🖥️ [**Bash Notes For Professionals**](BashNotesForProfessionals.pdf) | Professional Bash scripting |
 | 3 | 🖥️ [**Linux Bible by Christopher Negus**](linux-bible-by-christopher-negus.pdf) | The definitive Linux guide |
 | 4 | 🖥️ [**Linux Bash Cheat Sheet**](Linux_bash_cheat_sheet.pdf) | Quick Bash reference |
+| 5 | 🖥️ [**Bash Shell Scripting for Pentesters**](Bash%20Shell%20Scripting%20for%20Pentesters_%20Master%20the%20art%20of%20.pdf) | Bash scripting for pentesters |
+| 6 | 🖥️ [**Bash Shell Scripting for Pentesters — Command Line**](Bash_Shell_Scripting_for_Pentesters_Master_the_art_of_command_line.pdf) | Master the command line for pentesting |
+| 7 | 🖥️ [**Bash Level 1**](Bash_level1.pdf) | Bash basics part 1 |
+| 8 | 🖥️ [**Bash Level 2**](Bash_level2.pdf) | Bash basics part 2 |
+| 9 | 🖥️ [**Bash Level 3**](Bash_level3.pdf) | Bash basics part 3 |
+| 10 | 🖥️ [**Black Hat Bash**](Black_Hat_Bash_Creative_Scripting_for_Hackers_and_Pentesters_Dolev.epub) | Creative scripting for hackers and pentesters |
+| 11 | 🖥️ [**Linux Administration Cookbook**](Linux%20Administration%20Cookbook.pdf) | Linux sysadmin recipes |
+| 12 | 🖥️ [**Linux Basics for Hackers (OccupyTheWeb)**](Linux%20Basics%20for%20Hackers%20%28Occupytheweb%29%20%28Z-Library%29.pdf) | Linux fundamentals for hackers |
+| 13 | 🖥️ [**Linux Command Line**](LinuxCommandLine.pdf) | Command line essentials |
+| 14 | 🖥️ [**Linux Shell Scripting Cookbook (2nd Edition)**](Linux_Shell_Scripting_Cookbook%2C_Second_Edition.pdf) | Shell scripting recipes |
+| 15 | 🖥️ [**Linux Networking Cookbook**](Linux%20Networking%20Cookbook.pdf) | Linux networking recipes |
+| 16 | 🖥️ [**Linux Utilities Cookbook**](%5BPDF%5D%20Linux_Utilities_Cookbook.pdf) | Everyday Linux utilities |
 
 ---
 
@@ -362,6 +415,25 @@ I've personally gone through many of these books during my own CEH journey and p
 | 1 | ⌨️ [**Python Guide**](Python%20Guide.pdf) | Python for security professionals |
 | 2 | ⌨️ [**JavaScript by Example (2nd Edition)**](JavaScript%20by%20Example%2C%202nd%20Edition.pdf) | JavaScript security concepts |
 | 3 | ⌨️ [**JS**](JS.pdf) | JavaScript essentials |
+| 4 | ⌨️ [**Ethical Hacking with Python**](Ethical%20Hacking%20with%20Python.pdf) | Python for ethical hackers |
+| 5 | ⌨️ [**Hands-On Penetration Testing with Python**](HANDS-ON%20PENETRATION%20TESTING%20WITH%20PYTHON.pdf) | Practical pentesting with Python |
+| 6 | ⌨️ [**JavaScript**](JavaScript.pdf) | JavaScript fundamentals |
+| 7 | ⌨️ [**JavaScript for Hackers (Gareth Heyes)**](JavaScript_for_hackers_Learn_to_think_like_a_hacker_Heyes_Gareth.pdf) | Think like a hacker with JavaScript |
+| 8 | ⌨️ [**Learn Penetration Testing with Python 3.x**](Learn_Penetration_Testing_with_Python_3_x_An_ethical_hacker%E2%80%99s_blueprint.pdf) | An ethical hacker's Python blueprint |
+| 9 | ⌨️ [**Modern Python Cookbook**](Modern_Python_Cookbook.pdf) | Modern Python recipes |
+| 10 | ⌨️ [**Python for Offensive Pentest**](PYTHON_FOR_OFFENSIVE_PENTEST_a_complete_practical_guide_to_Hussam.pdf) | Complete practical guide to offensive Python |
+| 11 | ⌨️ [**Penetration Testing with Java**](Penetration%20Testing%20with%20Java_%20A%20step-by-step%20pen%20testing.epub) | Step-by-step pentesting with Java |
+| 12 | ⌨️ [**Scripting Automation with Bash, PowerShell, and Python**](Scripting_Automation_with_Bash%2C_PowerShell%2C_and_Python%40book_network.pdf) | Automation across three shells |
+| 13 | ⌨️ [**Top 10 Hacking Scripts in Python, C, and ASP.NET**](Top_10_Hacking_Scripts_in_Python%2C_C%2C_and_ASP_NET_2_Books_in_1_Unmasking.pdf) | Hacking scripts across languages |
+| 14 | ⌨️ [**Ultimate Python**](Ultimate%20Python%20.pdf) | Comprehensive Python guide |
+| 15 | ⌨️ [**Python**](python.pdf) | Python programming reference |
+| 16 | ⌨️ [**Git**](Git.pdf) | Version control essentials |
+| 17 | ⌨️ [**HTML**](HTML.pdf) | HTML fundamentals for web security |
+| 18 | ⌨️ [**The Hacker Mindset**](The_Hacker_Mindset_How_thinking_like_a_hacker_can_improve_your_code.pdf) | How thinking like a hacker improves your code |
+| 19 | ⌨️ [**The Book of Batch Scripting**](The_Book_of_Batch_Scripting_From_Fundamentals_to_Advanced_Automation%40book.pdf) | Batch scripting from fundamentals to advanced automation |
+| 20 | ⌨️ [**Python Penetration Testing Essentials**](%5BPDF%5D%20Python_Penetration_Testing_Essentials.pdf) | Python pentesting essentials |
+| 21 | ⌨️ [**Python 3 Object Oriented Programming**](%5BPDF%5D_Python_3_Object_Oriented_Programming.pdf) | OOP with Python 3 |
+| 22 | ⌨️ [**Python for Secret Agents**](%5BPDF%5D_Python_for_Secret_Agents.pdf) | Python tradecraft for security tasks |
 
 ---
 
@@ -375,6 +447,10 @@ I've personally gone through many of these books during my own CEH journey and p
 | 2 | 🔍 [**Mining Social Web**](Mining%20Social%20Web.pdf) | Extracting intelligence from social media |
 | 3 | 🔍 [**Beef Framework Explained**](Beef%20Framweork%20Explained.pdf) | Browser Exploitation Framework |
 | 4 | 🔍 [**Kali Social Engineering**](KaliSocialEngineering.pdf) | Social engineering with Kali |
+| 5 | 🔍 [**Hacking Tricks, Methods, and Offensive Strategies**](Hacking_Tricks%2C_Methods%2C_and_Offensive_Strategies_Digital_reconnaissance.epub) | Digital reconnaissance methods and strategies |
+| 6 | 🔍 [**Kali Linux Social Engineering**](%5BPDF%5D_Kali_Linux_Social_Engineering.pdf) | Social engineering with Kali Linux |
+| 7 | 🔍 [**The Psychology of Cybersecurity**](The%20Psychology%20of%20Cybersecurity%20Hacking%20and%20the%20Human%20Mind.pdf) | Hacking and the human mind |
+| 8 | 🔍 [**Google Hacking for Penetration Testers**](Google%20Hacking%20for%20Penetration%20Testers.pdf) | Google dorking for pentesters |
 
 ---
 
@@ -390,6 +466,9 @@ I've personally gone through many of these books during my own CEH journey and p
 | 4 | 🛠️ [**100 Security Operation Center Tools**](100%20Security%20Operation%20Center%20Tools.pdf) | Essential SOC toolkit |
 | 5 | 🛠️ [**cURL Cheat Sheet**](curl-cheatsheet.pdf) | Quick reference for cURL commands |
 | 6 | 🛠️ [**cURL Command Cheat Sheet**](curl-command-cheatsheet.pdf) | Comprehensive cURL command reference |
+| 7 | 🛠️ [**BurpSuite**](BurpSuite.pdf) | Burp Suite reference guide |
+| 8 | 🛠️ [**Ultimate Penetration Testing with Nmap**](Ultimate_Penetration_Testing_with_Nmap_Master_Cybersecurity_Assessments.pdf) | Master cybersecurity assessments with Nmap |
+| 9 | 🛠️ [**Nmap Cheat Sheet**](Nmap-Cheat-Sheet.pdf) | Quick Nmap reference |
 
 ---
 
@@ -401,6 +480,8 @@ I've personally gone through many of these books during my own CEH journey and p
 |---|------|-------------|
 | 1 | 🔑 [**Introduction to Cryptography**](IntroToCrypto.pdf) | Cryptography fundamentals |
 | 2 | 🔑 [**Navigating Crypto by Binance**](cyber%20-%20Navigating%20Crypto%20by%20Binanc.pdf) | Blockchain & cryptocurrency security |
+| 3 | 🔑 [**Hacking Cryptography**](Hacking%20Cryptography.pdf) | Cryptography hacking techniques |
+| 4 | 🔑 [**Hacking Secret Ciphers with Python**](Hacking_Secret_Ciphers_with_Python_A_beginners_guide_to_cryptography.pdf) | Beginner's guide to cryptography with Python |
 
 ---
 
@@ -427,6 +508,8 @@ I've personally gone through many of these books during my own CEH journey and p
 | 15 | 🚀 [**Overview**](Overview.pdf) | Security overview guide |
 | 16 | 🚀 [**AD1027344**](AD1027344.pdf) | Additional security reference |
 | 17 | 🚀 [**CAIQ v4.0.2 STAR Security Questionnaire**](CAIQv4.0.2_STAR-Security-Questionnaire_Generated-at_2021-09-13.xlsx) | Cloud security questionnaire |
+| 18 | 🚀 [**Cybersecurity Strategies and Best Practices**](Cybersecurity_Strategies_and_Best_Practices_A_Comprehensive_Guide.pdf) | Comprehensive strategy and best practices guide |
+| 19 | 🚀 [**Mind Maps Collection**](Mind%20Maps%20Collection.pdf) | Visual mind maps for security topics |
 
 ---
 
